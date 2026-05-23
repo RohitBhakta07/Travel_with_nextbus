@@ -1,4 +1,4 @@
-# NextBus App – Project Manager README
+# NextBus App For Travels – Project Manager README
 
 ## Role
 I managed the overall project workflow and coordinated contributions from all members.
